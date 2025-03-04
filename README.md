@@ -10,7 +10,7 @@ Bienvenido a mi perfil. Me especializo en análisis de datos y visualización, a
 - 🚀 Actualmente trabajando en proyectos de AI-driven analytics en Power BI.  
 
 ## 📌 Proyectos Destacados  
-🔹 [Proyecto 1 - Análisis de Superstore](URL)  
+🔹 [Proyecto 1 - Análisis de Superstore](https://github.com/Carlos-Aldaez/Ventas_SuperTienda.git)  
 🔹 [Proyecto 2 - Retail Data Analytics](URL)  
 
 ## 🚀 Tecnologías  
